@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<folders>
+	<folder>
+		<title>テスト用文字列</title>
+		<snippets>
+			<snippet>
+				<title>日本語15文字</title>
+				<content>あいうえおかきくけこさしすせそ</content>
+			</snippet>
+			<snippet>
+				<title>時間-日本語</title>
+				<content>2018年11月10日 14時55分55秒</content>
+			</snippet>
+			<snippet>
+				<title>住所</title>
+				<content>東京都千代田区大手町２丁目３−１</content>
+			</snippet>
+			<snippet>
+				<title>03-3477-0111</title>
+				<content>03-3477-0111</content>
+			</snippet>
+			<snippet>
+				<title>090-3477-0111</title>
+				<content>090-3477-0111</content>
+			</snippet>
+		</snippets>
+	</folder>
+</folders>
