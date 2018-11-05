@@ -23,6 +23,26 @@
 				<title>090-3477-0111</title>
 				<content>090-3477-0111</content>
 			</snippet>
+			<snippet>
+				<title>全角英字</title>
+				<content>ＡＢＣＤＥＦＧ</content>
+			</snippet>
+			<snippet>
+				<title>半角英字</title>
+				<content>ABCDEFG</content>
+			</snippet>
+			<snippet>
+				<title>全角数字</title>
+				<content>１２３４５</content>
+			</snippet>
+			<snippet>
+				<title>半角数字</title>
+				<content>150000</content>
+			</snippet>
+			<snippet>
+				<title>半角数字カンマ入り</title>
+				<content>150,000</content>
+			</snippet>
 		</snippets>
 	</folder>
 </folders>
